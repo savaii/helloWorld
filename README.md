@@ -12,4 +12,4 @@ I'll add more to this later.
 
 I'm going through page one of the Github guide.
 
-* Last update 2020-10-06 *
+*Last update 2020-10-06*
